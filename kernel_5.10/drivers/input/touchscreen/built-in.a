@@ -1,0 +1,25 @@
+!<thin>
+//                                              188       `
+of_touchscreen.o/
+atmel_mxt_ts.o/
+elants_i2c.o/
+gsl3673.o/
+gsl_point_id.o/
+gt1x/gt1x_extents.o/
+gt1x/gt1x_generic.o/
+gt1x/gt1x_tools.o/
+gt1x/gt1x.o/
+gt1x/gt1x_update.o/
+usbtouchscreen.o/
+
+/0              0           0     0     644     177456    `
+/18             0           0     0     644     476456    `
+/34             0           0     0     644     379472    `
+/48             0           0     0     644     401760    `
+/59             0           0     0     644     133640    `
+/75             0           0     0     644     115656    `
+/96             0           0     0     644     298864    `
+/117            0           0     0     644     166384    `
+/136            0           0     0     644     335784    `
+/149            0           0     0     644     195784    `
+/169            0           0     0     644     313528    `
